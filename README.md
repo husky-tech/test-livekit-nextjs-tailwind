@@ -1,28 +1,28 @@
 # Video Chat App made with Livekit and Next,js
 
-This is a simple video chat app made with Livekit and Next.js. It uses the Livekit server to create rooms and connect users to them. The app is built with Next.js and uses Tailwind CSS for styling.
+このアプリは Livekit と Next.js を使って作られたシンプルなビデオチャットアプリです。Livekit サーバーを使ってルームを作成し、ユーザーを接続します。アプリは Next.js で構築されており、スタイリングには Tailwind CSS を使用しています。
 
 ## Running tha app
 
-1. Clone the repository
+1. リポジトリのクローン
 
 ```bash
 git clone
 ```
 
-2. Install the dependencies
+2. 依存関係のインストール
 
 ```bash
 yarn install
 ```
 
-3. Run the app
+3. アプリの起動
 
 ```bash
 yarn dev
 ```
 
-4. Open the app in your browser
+4. ブラウザでアプリを開く
 
 ```bash
 open http://localhost:3000
